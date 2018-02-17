@@ -7,13 +7,13 @@ public interface Interface {
 
 	}
 
-	public abstract void furniture();
+	public  void furniture();
 	
-	public abstract void night();
+	public  void night();
 	
-	public abstract void car();
+	public  void car();
 	
-	public abstract void rain();
+	public  void rain();
 	
 	
 	
